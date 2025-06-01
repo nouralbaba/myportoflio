@@ -59,7 +59,7 @@ const Hero = () => {
               </button>
             </a>
             
-            <a href='#contact'>
+            <a href='/Nour_Albaba_CV.pdf'>
               <button className='
                 inline-flex items-center gap-2
                 px-6 py-3 bg-white/10 border border-gray-500

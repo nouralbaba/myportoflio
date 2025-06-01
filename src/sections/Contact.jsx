@@ -43,7 +43,7 @@ const Contact = () => {
      </button></a>
       
 
-      <a href="#">
+      <a href="/Nour_Albaba_CV.pdf">
     <button className="text-gray-900 bg-gray-200/30 inline-flex items-center shadow-md px-6 h-14 md:px-8 md:h-16 rounded-xl gap-2 hover:shadow-gray-600 ">
     <FaDownload className="size-4" />
       <span className="font-bold text-lg lg:text-xl ">Download My CV</span>

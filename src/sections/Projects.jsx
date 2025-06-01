@@ -17,8 +17,8 @@ const PROJECTS = [
     technologies: ["HTML ", "- CSS", "- Plain Javascript"],
     description: "A clean and responsive website for a small sushi restaurant, showcasing the menu, location, and a simple contact form.",
   
-    link:'',
-    githubLink: "https://github.com/nouralbaba/Saas-landing-page",
+    link:'https://sushiiplace.netlify.app/',
+    githubLink: "https://github.com/nouralbaba/sushiplace/tree/main/sushi",
     image: Project1,
   },
   
